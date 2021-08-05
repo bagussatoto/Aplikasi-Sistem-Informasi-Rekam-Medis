@@ -29,8 +29,8 @@ Fitur Fiturnya
 - Dan LAinnya
 
   
-  Login User : leon
-  Password   : admin
+  - Login User : leon
+  - Password   : admin
  
 
 For now its done :)
